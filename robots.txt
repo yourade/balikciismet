@@ -1,0 +1,4 @@
+# TASLAK: icerik hazir degil, arama motorlarina kapali.
+# Acmak icin build/draft.flag dosyasini silin.
+User-agent: *
+Disallow: /
